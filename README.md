@@ -1,1 +1,1 @@
-# Online-FIre-Reporting-System
+# Online-Fire-Reporting-System
